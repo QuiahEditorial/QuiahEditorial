@@ -1,5 +1,7 @@
-- 👋 Hola, mi nombre es Roberto y estoy creando @QuiahEditorial, una editorial enfocada en material editorial de ciencia aplicada, conoce mis libros en cada repositorio
-- 👀 Estoy interesado en las aplicaciones de la física y las matemáticas, aplicaciones reales para la vida real
-- 🌱 Estoy aprendiendo a controlar componentes tecnológicos, como encender una lámpara de deuterio
-- 💞️ Busco colaborar con desarrolladores y profesores, personas que desean sacar la ciencia de la libreta de apuntes
+- 👋 Hola, mi nombre es Roberto, estoy construyendo @QuiahEditorial (MR), una editorial enfocada en material editorial de ciencia aplicada, conoce mis libros en cada repositorio
+- 👀 Estoy interesado en la física y las matemáticas aplicadas a la solución de problemas reales
+- 🌱 Estoy aprendiendo a controlar componentes tecnológicos, como encender una lámpara de deuterio, construir "from scartch" un CNC, etc
+- 💞️ Busco colaborar con desarrolladores que necesitan controlar sus dispositivos tecnológicos, y profesores que desean sacar la ciencia de sus apuntes para enseñarla a sus alumnos
 - 📫 tweeter : EditorialQuiah
+- 
+- https://www.facebook.com/LaTeXnomicon
