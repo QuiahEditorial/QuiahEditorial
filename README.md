@@ -1,0 +1,5 @@
+- 👋 Hola, mi nombre es Roberto y estoy creando @QuiahEditorial, una editorial enfocada en material editorial de ciencia aplicada, conoce mis libros en cada repositorio
+- 👀 Estoy interesado en las aplicaciones de la física y las matemáticas, aplicaciones reales para la vida real
+- 🌱 Estoy aprendiendo a controlar componentes tecnológicos, como encender una lámpara de deuterio
+- 💞️ Busco colaborar con desarrolladores y profesores, personas que desean sacar la ciencia de la libreta de apuntes
+- 📫 tweeter : EditorialQuiah
