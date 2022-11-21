@@ -2,6 +2,4 @@
 - 👀 Estoy interesado en la física y las matemáticas aplicadas a la solución de problemas reales
 - 🌱 Estoy aprendiendo a controlar componentes tecnológicos, como encender una lámpara de deuterio, construir "from scartch" un CNC, etc
 - 💞️ Busco colaborar con desarrolladores que necesitan controlar sus dispositivos tecnológicos, y profesores que desean sacar la ciencia de sus apuntes para enseñarla a sus alumnos
-- 📫 tweeter : EditorialQuiah
-- 
-- https://www.facebook.com/LaTeXnomicon
+- 📫 https://www.facebook.com/LaTeXnomicon
