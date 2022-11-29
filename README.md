@@ -3,4 +3,4 @@
 - 🌱 Estoy aprendiendo a controlar componentes tecnológicos, como encender una lámpara de deuterio, construir "from scartch" un CNC, etc
 - 💞️ Busco colaborar con desarrolladores que necesitan controlar sus dispositivos tecnológicos, y profesores que desean sacar la ciencia de sus libretas para concretizar y enseñar el potencial tangible a sus alumnos
 - 📫 https://www.facebook.com/LaTeXnomicon
-- CV https://drive.google.com/file/d/1MqaNiTvENiqI80QQY6n4bYP-q2HGAH6U/view?usp=sharing
+- CV https://drive.google.com/file/d/1G9xq1C3840GCdc_PYzhuAD8PdrgpXo7m/view?usp=sharing
