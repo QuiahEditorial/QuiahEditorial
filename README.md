@@ -1,6 +1,5 @@
-- 👋 Hola, mi nombre es Roberto, estudié física en la BUAP, estoy construyendo @QuiahEditorial (MR), una editorial enfocada en material editorial de ciencia aplicada, tengo tres patentes, y publiqué tres libros, conócelos en cada repositorio
+- 👋 Hola, mi nombre es Roberto, soy licenciado en Física por la BUAP, estoy construyendo @QuiahEditorial (MR), una editorial enfocada en material de ciencia aplicada, tengo tres patentes, una certificación EC0301,  publiqué tres libros, conócelos en cada repositorio.
 - 👀 Estoy interesado en la física y las matemáticas aplicadas a la solución de problemas reales, en particular en transferencia detecnología
-- 🌱 Estoy aprendiendo a controlar componentes tecnológicos, como encender una lámpara de deuterio, construir "from scartch" un CNC, etc
-- 💞️ Busco colaborar con desarrolladores que necesitan controlar sus dispositivos tecnológicos, y profesores que desean sacar la ciencia de sus libretas para concretizar y enseñar el potencial tangible a sus alumnos
+- 💞️ Me interesa colaborar con desarrolladores que necesitan controlar sus dispositivos tecnológicos, y profesores que desean sacar la ciencia de sus libretas para concretizar y enseñar el potencial tangible a sus alumnos
 - 📫 https://www.facebook.com/LaTeXnomicon
 - CV https://drive.google.com/file/d/1G9xq1C3840GCdc_PYzhuAD8PdrgpXo7m/view?usp=sharing
